@@ -9,16 +9,6 @@ Challenge the computer 🤖, test your luck 🍀, and have some fun 🎮!
 🎨 Minimal & Clean Design
 📱 Responsive for All Devices
 
-🎮 How to Play
-1️⃣ Choose either Stone 🪨, Paper 📄, or Scissors ✂️
-2️⃣ The computer will pick its move 🤖
-3️⃣ Rules:
-    🪨 beats ✂️
-    ✂️ beats 📄
-    📄 beats 🪨
-
-4️⃣ First to score more wins 🏆!
-
 🔗 Live Demo
 [will add soon]
 

@@ -44,7 +44,7 @@ A simple and fun web-based *Stone · Paper · Scissors* (also known as *Rock · 
 
 ## Author
 
-> ✍️ Made with ❤️ by Anika Shukla  
+> ✍️ Made by Anika Shukla  
 > Inspired by the classic *Rock Paper Scissors* game.
 
 ---
